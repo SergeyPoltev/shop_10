@@ -1,0 +1,17 @@
+C:\Users\Сергей\Desktop\Shop_10\obj\Debug\net6.0\Shop_10.csproj.AssemblyReference.cache
+C:\Users\Сергей\Desktop\Shop_10\obj\Debug\net6.0\Shop_10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Сергей\Desktop\Shop_10\obj\Debug\net6.0\Shop_10.AssemblyInfoInputs.cache
+C:\Users\Сергей\Desktop\Shop_10\obj\Debug\net6.0\Shop_10.AssemblyInfo.cs
+C:\Users\Сергей\Desktop\Shop_10\obj\Debug\net6.0\Shop_10.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\Desktop\Shop_10\bin\Debug\net6.0\Shop_10.exe
+C:\Users\Сергей\Desktop\Shop_10\bin\Debug\net6.0\Shop_10.deps.json
+C:\Users\Сергей\Desktop\Shop_10\bin\Debug\net6.0\Shop_10.runtimeconfig.json
+C:\Users\Сергей\Desktop\Shop_10\bin\Debug\net6.0\Shop_10.dll
+C:\Users\Сергей\Desktop\Shop_10\bin\Debug\net6.0\ref\Shop_10.dll
+C:\Users\Сергей\Desktop\Shop_10\bin\Debug\net6.0\Shop_10.pdb
+C:\Users\Сергей\Desktop\Shop_10\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Сергей\Desktop\Shop_10\obj\Debug\net6.0\Shop_10.csproj.CopyComplete
+C:\Users\Сергей\Desktop\Shop_10\obj\Debug\net6.0\Shop_10.dll
+C:\Users\Сергей\Desktop\Shop_10\obj\Debug\net6.0\ref\Shop_10.dll
+C:\Users\Сергей\Desktop\Shop_10\obj\Debug\net6.0\Shop_10.pdb
+C:\Users\Сергей\Desktop\Shop_10\obj\Debug\net6.0\Shop_10.genruntimeconfig.cache
